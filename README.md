@@ -1,7 +1,7 @@
 # ASTEROIDS
 
 
-Build an Asteroids Game. We're going to build a simple video game, based on the classic Asteroids.
+Based on the classic Asteroids.
 
 ## How to Run
 
